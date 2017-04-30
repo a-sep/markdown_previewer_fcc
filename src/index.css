@@ -6,6 +6,10 @@ body {
   background-color: lightcyan;
 }
 
+header > h2{
+  text-shadow: 1px 1px 1.5px gray;
+}
+
 header > h2, footer > p {
   margin: 0;
   padding: 0.5em;
